@@ -1,4 +1,5 @@
-Hi there 👋
+Hi there
+
 My name is Francesco. 
 
 I'm an AWS media specialist and an independent consultant. If you're interested in working with me, then check out my consulting services.
