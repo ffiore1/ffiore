@@ -1,4 +1,4 @@
-Hi there
+Hi there,
 
 My name is Francesco. 
 
@@ -20,5 +20,4 @@ Scoping build and implementation of a Live-to-VOD (video on demand) solution for
 
 - VOD
 Scoping build and implementation of a VOD (video-on-demand) solution, ingesting metadata files and source videos, processing the videos for playback on a wide range of devices. Technologies: AWS MediaConvert, MediaPackage, Step functions, Lambda, Api gateway, Cognito, DynamoDB, CloudFormation and Axinom Multi DRM.
-
 
