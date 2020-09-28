@@ -12,7 +12,8 @@ How to reach me:
 Most Recent projects:
 
 - DAI/SSAI
-Scoping build and implementation of a SSAI/DAI monetization solution, evaluating multiple vendor SSAI solutions (YoSpace, MediaTailor, etc.) and their integration with ad servers’ vendors such as Google or SpotX. Integration with schedules/playout system (Imagine), data reporting (Kibana, Conviva) and monitoring solutions (Graphana, Touchstream, Slack) for SLAs and revenues measurement. Technologies: AWS MediaPackage, MediaConvert, MediaLive, MediaTailor, YoSpace SSAI, Google Advertising Manager, Axinom DRM (FairPlay, PlayReady, Widevine) across multiple CDNs (Optus, Akamai, CloudFront).
+Scoping build and implementation of a SSAI/DAI monetization solution, evaluating multiple vendor SSAI solutions (YoSpace, MediaTailor, etc.) and their integration with ad servers’ vendors such as Google or SpotX. 
+Integration with schedules/playout system (Imagine), data reporting (Kibana, Conviva) and monitoring solutions (Graphana, Touchstream, Slack) for SLAs and revenues measurement. Technologies: AWS MediaPackage, MediaConvert, MediaLive, MediaTailor, YoSpace SSAI, Google Advertising Manager, Axinom DRM (FairPlay, PlayReady, Widevine) across multiple CDNs (Optus, Akamai, CloudFront).
 
 - Live2VOD
 Scoping build and implementation of a Live-to-VOD (video on demand) solution for the extraction, multi-DRM protection and storing of sport live events video stream portion for playback later. Technologies: AWS MediaPackage, Batch, Docker, ECS, ECR, Step functions, Lambda, Api gateway, Cognito, DynamoDB, CloudFormation and Axinom Multi DRM.
